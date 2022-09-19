@@ -188,3 +188,8 @@ a {
 		display: none;
 	}
 }
+
+#img_profile{
+	position: relative;
+	top: 180px;
+}
